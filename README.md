@@ -47,8 +47,8 @@ The skills demonstrated here — data extraction, transformation, statistical ca
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/your-github-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/shashankshivanna-finance/finance-portfolio.git
+cd finance-portfolio
 ```
 
 ### Step 2 — Install dependencies
