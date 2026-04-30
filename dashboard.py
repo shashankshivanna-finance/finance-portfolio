@@ -271,6 +271,6 @@ st.markdown("---")
 st.markdown(
     "**Shashank Shivanna** | MSc Accounting & Finance, University of Edinburgh | "
     "[LinkedIn](https://www.linkedin.com/in/shashank-s-122six) | "
-    "[GitHub](https://github.com/your-github-username)"
+    "[GitHub](https://github.com/shashankshivanna-finance)"
 )
 st.caption("Data sourced from Yahoo Finance. For educational purposes only. Not financial advice.")
